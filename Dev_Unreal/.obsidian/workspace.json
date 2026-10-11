@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "ed757da45736e4ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "82050bd919c59c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83b1ea4e2412045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 장르/독스 - 생존형 게임 구조.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "독스 - 생존형 게임 구조"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1440d58e9ff96083",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1cba3b59c90711c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcb639ad88bbc287",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "68f03c17668ec9d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "97a6ee94659f8645",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "703402ca7c4f4283",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa63d544af147e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a70c17ea64f6e935",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "환영합니다!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "78136e5977f1cc65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "환영합니다!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "1badd9dd871795d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "32499b6559d6afe1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "cf6b7eef23486060",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "d83b1ea4e2412045",
+  "lastOpenFiles": [
+    "20 장르/독스 - 밸런스 곡선.md",
+    "00 시작/규칙 - 작업 기록.md",
+    "00 시작/문서 쓰는 법.md",
+    "00 시작/Dev_Unreal 지도.md",
+    "20 장르/독스 - 생존형 게임 구조.md",
+    "10 기초/독스 - 데이터 구조.md",
+    "30 UI/독스 - 코드로 그리는 화면.md",
+    "30 UI/독스 - 언리얼 UI 구조.md",
+    "90 도구/독스 - 프로젝트 도구.md",
+    "50 프로젝트/RollBall 기획.md",
+    "50 프로젝트/RollBall 진행 상태.md",
+    "40 기능/독스 - 맵 생성.md",
+    "환영합니다!.md"
+  ]
+}
